@@ -1,11 +1,10 @@
 ---
 name: put-on-design
-description: Craft communication or action that maintains strategic ambiguity between
-  serious and satirical, preventing easy dismissal while commanding attention.
+description: Craft communication or action that maintains strategic ambiguity between serious and satirical, preventing easy dismissal while commanding attention.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - absurdist
 - comedy
