@@ -3,7 +3,7 @@ name: put-on-design
 description: Craft communication or action that maintains strategic ambiguity between serious and satirical, preventing easy dismissal while commanding attention.
 license: MIT
 metadata:
-  version: 1.0.4773
+  version: 1.0.4774
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
